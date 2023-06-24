@@ -133,7 +133,7 @@ line-height: 24px;
 color: #595959;
 }
 /* education styles */
-.education {}
+
 .about_education {
 font-style: normal;
 font-weight: 700;
@@ -158,6 +158,12 @@ color: #000000;
 .contacts {
     margin-bottom: 50px;
 }
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
 .tech_skills {
     margin-bottom: 45px;
 }
@@ -184,6 +190,7 @@ font-weight: bold;
 font-size: 14px;
 line-height: 24px;
 color:#e5eaf1;
+text-decoration: none;
 }
 .tech-skills-list {
     color: #FFF;
