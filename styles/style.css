@@ -12,7 +12,7 @@
 .Main_content {
  background-color: #fff;
 box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
- padding: 45px 40px;
+ padding: 20px 40px;
  margin-left: 10px;
 }
 /* about styles */
@@ -45,7 +45,7 @@ box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 /* projects styles */
 .Projects {
- margin-bottom: 50px;
+ margin-bottom: 20px;
 }
 .title {
  font-style: normal;
@@ -88,7 +88,7 @@ project_link {
 /* work styles */
 .work {
  padding: 0;
- margin-bottom: 50px;
+ margin-bottom: 30px;
 
 }
 .work_position {
@@ -97,7 +97,7 @@ project_link {
  font-size: 16px;
  line-height: 20px;
  color: #000000;
- margin-bottom: 10px;
+ margin-top: 10px;
 }
 .organization {
  font-style: normal;
